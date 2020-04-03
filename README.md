@@ -1,0 +1,1 @@
+This is an HTML file that will play the game of rock, paper, scissors.  The outputs are all in the console and the javascript uses a simple prompt to prompt the user.
